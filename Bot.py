@@ -5,7 +5,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 
 
 
-token="df7e26721bd0509e77131946384e4bbf707b29cb94876a35ab6d372fd4595f4c227606334886a599ee88e" 
+token="тут_был_токен" 
 
 
 
